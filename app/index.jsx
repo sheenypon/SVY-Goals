@@ -8,7 +8,7 @@ const Home = () => {
         SVY - G A M E S
       </Text>
       <Link style={styles.link} href="/goals">
-        View Your Goals
+        View Your Games
       </Link>
       <Link style={styles.link} href="/goals/create">
         Add a New Goal
