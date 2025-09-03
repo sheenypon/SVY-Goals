@@ -5,13 +5,13 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        SVY - G A M E S
+        SVY - G O A L S
       </Text>
       <Link style={styles.link} href="/goals">
-        View Your Games
+        View Your Goals
       </Link>
       <Link style={styles.link} href="/goals/create">
-        Add a New Game
+        Add a New Goal
       </Link>
     </View>
   )
