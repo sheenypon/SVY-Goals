@@ -11,7 +11,7 @@ const Home = () => {
         View Your Goals
       </Link>
       <Link style={styles.link} href="/goals/create">
-        Add New Goals
+        Add a New Goal
       </Link>
     </View>
   )
